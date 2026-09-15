@@ -100,7 +100,7 @@ export function Navbar({}: NavbarProps) {
             <DropdownWrapper
               className={"nav-menu-dropdown"}
               data-w-id={"2fd057cc-f5a4-12c9-042c-f8d89b6fa840"}
-              delay={"200"}
+              delay={200}
               hover={true}
               tag={"div"}
             >
