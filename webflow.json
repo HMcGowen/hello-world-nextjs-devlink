@@ -1,0 +1,13 @@
+{
+  "cloud": {
+    "framework": "nextjs"
+  },
+  "devlink-export": {
+    "rootDir": "./src/webflow",
+    "components": ".*",
+    "componentGroups": ".*",
+    "ts": true,
+    "cssScopes": true,
+    "relativeHrefRoot": "/"
+  }
+}
