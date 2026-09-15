@@ -1,0 +1,36 @@
+:root {
+  --colors--primary-onyx: #111;
+  --colors--headings-white: white;
+  --colors--body-text-warm-lt-gray: hsla(36.000000000000135, 1.07%, 82.62%, 1);
+  --colors--accent-1-brushed-brass: hsla(37.974683544303794, 35.43%, 56.27%, 1);
+  --font-family--body-font: "Instrument Sans", sans-serif;
+  --colors--highlight-warm-gold: #ddb684;
+  --font-size--medium-text: 1.125rem;
+  --font-family--primary-heading-font: "Space Grotesk", sans-serif;
+  --font-size--h1-headings: 3.95rem;
+  --spacing--global-padding: 5%;
+  --spacing--large-padding: 6.5rem;
+  --spacing--medium-padding: 4.5rem;
+  --font-size--regular-text: 1rem;
+  --font-size--tiny-text: 0.8rem;
+  --font-family--secondary-heading-font: "Plus Jakarta Sans", sans-serif;
+  --font-size--h2-headings: 2.5rem;
+  --colors--secondary-dark-charcoal: #1e1e1e;
+  --colors--accent-3-esspresso: hsla(36.000000000000014, 6.85%, 14.31%, 1);
+  --colors--accent-2-burnished-amber: hsla(
+    32.00000000000001,
+    14.22%,
+    22.53%,
+    1
+  );
+  --spacing--xs-padding: 1.5rem;
+  --spacing--small-padding: 3rem;
+  --font-size--paragraph-line-height: 1.4rem;
+  --colors--muted-text-stone-gray: #a39f97;
+  --spacing--xl-padding: 7.5rem;
+  --font-size--large-headings: 6rem;
+  --font-size--h3-headings: 1.8rem;
+  --font-size--h4-headings: 1.4rem;
+  --font-size--large-text: 1.25rem;
+  --colors--dark-transparent-img-overlay: hsla(0, 0%, 0%, 0.68);
+}

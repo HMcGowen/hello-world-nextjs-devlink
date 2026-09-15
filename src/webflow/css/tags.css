@@ -1,0 +1,165 @@
+@scope (.wf-devlink-b6a9b99173dd4037fb15001c3e294734) {
+  body {
+    background-color: var(--colors--primary-onyx);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  img {
+    display: inline-block;
+  }
+  #w-node-_0c72adef-89bb-b796-5878-9e469db25624-9db25602 {
+    grid-column-start: span 1;
+    grid-column-end: span 1;
+    grid-row-start: span 1;
+    grid-row-end: span 1;
+  }
+  #w-node-_0c72adef-89bb-b796-5878-9e469db25625-9db25602 {
+    justify-self: start;
+  }
+  @media screen and (max-width: 991px) {
+    body {
+      --colors--primary-onyx: #111;
+      --colors--headings-white: white;
+      --colors--body-text-warm-lt-gray: hsla(
+        36.000000000000135,
+        1.07%,
+        82.62%,
+        1
+      );
+      --colors--accent-1-brushed-brass: hsla(
+        37.974683544303794,
+        35.43%,
+        56.27%,
+        1
+      );
+      --font-family--body-font: "Instrument Sans", sans-serif;
+      --colors--highlight-warm-gold: #ddb684;
+      --font-size--medium-text: 1rem;
+      --font-family--primary-heading-font: "Space Grotesk", sans-serif;
+      --font-size--h1-headings: 3.25rem;
+      --spacing--global-padding: 5%;
+      --spacing--large-padding: 4.2rem;
+      --spacing--medium-padding: 3.2rem;
+      --font-size--regular-text: 0.9rem;
+      --font-size--tiny-text: 0.8rem;
+      --font-family--secondary-heading-font: "Plus Jakarta Sans", sans-serif;
+      --font-size--h2-headings: 2.2rem;
+      --colors--secondary-dark-charcoal: #1e1e1e;
+      --colors--accent-3-esspresso: hsla(36.000000000000014, 6.85%, 14.31%, 1);
+      --colors--accent-2-burnished-amber: hsla(
+        32.00000000000001,
+        14.22%,
+        22.53%,
+        1
+      );
+      --spacing--xs-padding: 0.8rem;
+      --spacing--small-padding: 2rem;
+      --font-size--paragraph-line-height: 1.3rem;
+      --colors--muted-text-stone-gray: #a39f97;
+      --spacing--xl-padding: 6rem;
+      --font-size--large-headings: 4.5rem;
+      --font-size--h3-headings: 1.5rem;
+      --font-size--h4-headings: 1.15rem;
+      --font-size--large-text: 1.15rem;
+      --colors--dark-transparent-img-overlay: hsla(0, 0%, 0%, 0.68);
+    }
+  }
+  @media screen and (max-width: 767px) {
+    body {
+      --colors--primary-onyx: #111;
+      --colors--headings-white: white;
+      --colors--body-text-warm-lt-gray: hsla(
+        36.000000000000135,
+        1.07%,
+        82.62%,
+        1
+      );
+      --colors--accent-1-brushed-brass: hsla(
+        37.974683544303794,
+        35.43%,
+        56.27%,
+        1
+      );
+      --font-family--body-font: "Instrument Sans", sans-serif;
+      --colors--highlight-warm-gold: #ddb684;
+      --font-size--medium-text: 0.95rem;
+      --font-family--primary-heading-font: "Space Grotesk", sans-serif;
+      --font-size--h1-headings: 3rem;
+      --spacing--global-padding: 7%;
+      --spacing--large-padding: 3.3rem;
+      --spacing--medium-padding: 2.7rem;
+      --font-size--regular-text: 0.88rem;
+      --font-size--tiny-text: 0.8rem;
+      --font-family--secondary-heading-font: "Plus Jakarta Sans", sans-serif;
+      --font-size--h2-headings: 1.85rem;
+      --colors--secondary-dark-charcoal: #1e1e1e;
+      --colors--accent-3-esspresso: hsla(36.000000000000014, 6.85%, 14.31%, 1);
+      --colors--accent-2-burnished-amber: hsla(
+        32.00000000000001,
+        14.22%,
+        22.53%,
+        1
+      );
+      --spacing--xs-padding: 0.5rem;
+      --spacing--small-padding: 1.5rem;
+      --font-size--paragraph-line-height: 1.2rem;
+      --colors--muted-text-stone-gray: #a39f97;
+      --spacing--xl-padding: 4rem;
+      --font-size--large-headings: 3.6rem;
+      --font-size--h3-headings: 1.25rem;
+      --font-size--h4-headings: 1rem;
+      --font-size--large-text: 1.05rem;
+      --colors--dark-transparent-img-overlay: hsla(0, 0%, 0%, 0.68);
+    }
+  }
+  @media screen and (max-width: 479px) {
+    body {
+      --colors--primary-onyx: #111;
+      --colors--headings-white: white;
+      --colors--body-text-warm-lt-gray: hsla(
+        36.000000000000135,
+        1.07%,
+        82.62%,
+        1
+      );
+      --colors--accent-1-brushed-brass: hsla(
+        37.974683544303794,
+        35.43%,
+        56.27%,
+        1
+      );
+      --font-family--body-font: "Instrument Sans", sans-serif;
+      --colors--highlight-warm-gold: #ddb684;
+      --font-size--medium-text: 0.95rem;
+      --font-family--primary-heading-font: "Space Grotesk", sans-serif;
+      --font-size--h1-headings: 2.4rem;
+      --spacing--global-padding: 7%;
+      --spacing--large-padding: 2.8rem;
+      --spacing--medium-padding: 2.3rem;
+      --font-size--regular-text: 0.88rem;
+      --font-size--tiny-text: 0.8rem;
+      --font-family--secondary-heading-font: "Plus Jakarta Sans", sans-serif;
+      --font-size--h2-headings: 1.7rem;
+      --colors--secondary-dark-charcoal: #1e1e1e;
+      --colors--accent-3-esspresso: hsla(36.000000000000014, 6.85%, 14.31%, 1);
+      --colors--accent-2-burnished-amber: hsla(
+        32.00000000000001,
+        14.22%,
+        22.53%,
+        1
+      );
+      --spacing--xs-padding: 0.4rem;
+      --spacing--small-padding: 1.3rem;
+      --font-size--paragraph-line-height: 1.1rem;
+      --colors--muted-text-stone-gray: #a39f97;
+      --spacing--xl-padding: 3rem;
+      --font-size--large-headings: 2.75rem;
+      --font-size--h3-headings: 1.1rem;
+      --font-size--h4-headings: 1rem;
+      --font-size--large-text: 1rem;
+      --colors--dark-transparent-img-overlay: hsla(0, 0%, 0%, 0.68);
+    }
+  }
+}
