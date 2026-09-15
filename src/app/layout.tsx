@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { DevLinkProvider } from "@/webflow/DevLinkProvider";
 import { DevLinkFontTags } from "@/webflow/webflow_modules/DevLinkFontTags";
+import { Navbar } from "@/webflow/Navbar";
+import { Footer } from "@/webflow/Footer";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -20,9 +22,9 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         <DevLinkProvider>
-          {/* Add here any Navbar or Header you want to be present on all pages */}
+          <Navbar />
           {children}
-          {/* Add here any Footer you want to be present on all pages */}
+          <Footer />
         </DevLinkProvider>
       </body>
     </html>
