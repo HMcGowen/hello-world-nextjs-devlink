@@ -174,7 +174,6 @@ export function ContactForm({}: ContactFormProps) {
                           />
                           <FormInlineLabel
                             className={"checkbox-label-small"}
-                            htmlFor={"Contact 6 Checkbox-2"}
                           >
                             {"I accept the "}
                             <Link
